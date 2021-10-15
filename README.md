@@ -1,4 +1,4 @@
-# Brest-canser-detection-
+# Breast-canser-detection-
 this a machine learning project implemented on python, following an online course.
 # I started by checking the python version and libreries 
 This step helped throught code errors since the course was uploaded 3 years ago and
