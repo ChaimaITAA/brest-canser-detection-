@@ -1,9 +1,9 @@
 # Breast-canser-detection-
 this a machine learning project implemented on python, following an online course.
-# I started by checking the python version and libreries 
+# Checking the python version and libreries 
 This step helped throught code errors since the course was uploaded 3 years ago and
 so many python updates happened since then.
-# Then I imported the required libreries
+# Import the required libreries
 I worked with sklearn which is is probably the most useful library for machine learning in Python. it contains a lot of useful componant such as:
 +Supervised learning algorithms.
 * Cross-validation.
