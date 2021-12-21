@@ -5,13 +5,15 @@ This step helped throught code errors since the course was uploaded 3 years ago 
 so many python updates happened since then.
 # Import the required libreries
 I worked with sklearn which is is probably the most useful library for machine learning in Python. it contains a lot of useful componant such as:
-+Supervised learning algorithms.
+
+* Supervised learning algorithms.
 * Cross-validation.
 * Unsupervised learning algorithms.
 * Various toy datasets.
 * Feature extraction.
 this librery helped me further in the project to explore the dataset and it alowed me to use machine learning methods which were useful to make a precise decision about the data.
-# Then we apply some changes on the dataset to adapt the data and we explore the data here are the steps that I followed:
+# Then we apply some changes on the dataset to adapt the data and we explore the data 
+Here are the steps that I followed:
 * Preprocess the data
 * Explore the dataset and do a few visualizations:
   * Print the shape of the dataset: this step show all the dataset column and give an idea about the type of data that we are dealing with
